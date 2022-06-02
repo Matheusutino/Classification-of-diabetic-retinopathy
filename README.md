@@ -1,4 +1,4 @@
-# Categorization-of-Lung-and-Colon-Cancer-Images
+# Classification of diabetic retinopathy
 # Grupo:
 
 #### Alessandro de Freitas Guerreiro - 11233891
